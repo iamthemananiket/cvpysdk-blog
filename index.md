@@ -2,7 +2,7 @@
 
 The Commvault Python Software Development Kit (CVPySDK) is a handy and easy-to-use package with which you can interact with your CommCell and perform all supported operations using Python.
 
-![Image](cvltpy.png)
+![Image](https://raw.githubusercontent.com/iamthemananiket/cvpysdk-blog/gh-pages/cvltpy.png)
 
 Everybody loves Python for its simplicity and so does Commvault. The CVPySDK presents to you the CommCell in the form of Python objects and modules.
 
@@ -15,7 +15,7 @@ Just six lines of Python code and you’ll have a backup job running!
 
 The CVPySDK is so self explanatory that even if you are a beginner in Python, you’ll be able to understand the functioning with ease and kick-start your entry into Python programming.
 
-![Image](xplatform-opensource.gif)
+![Image](https://raw.githubusercontent.com/iamthemananiket/cvpysdk-blog/gh-pages/xplatform-opensource.gif)
 
 ### Open source
 
@@ -30,7 +30,7 @@ All communication between the CvPySDK and the Commserver is performed via HTTP(S
 
 The [commcell entities](https://documentation.commvault.com/commvault/v11/article?p=1614.htm) are made available in the form of Python modules with which you can create objects and perform all supported operations on them. This would also include installation of agents, configuration and triggering backups. A quick look at our [documentation for the SDK](https://documentation.commvault.com/commvault/v11/article?p=45526_1.htm) and you’ll be good to go ahead.
 
-![Image](Backup.gif)
+![Image](https://raw.githubusercontent.com/iamthemananiket/cvpysdk-blog/gh-pages/Backup.gif)
 
 ### Get your hands dirty
 
