@@ -8,9 +8,9 @@ Everybody loves Python for its simplicity and so does Commvault. The CVPySDK pre
 
 The CVPySDK is a tiny package but has got numerous ways of application and usage. A few lines of Python code can achieve mammoth tasks.
 
-If there’s any kind of automation that you need to perform then CVPySDK is the best suited tool. From simple to complex, all bulk operations on the CommCell can be automated using the CVPySDK to eliminate manual involvement.
-Customize the usability and experience of the CommCell from all dimensions. Tune things to your standard and do it yourself. If you’re the wizard, then the CVPySDK is the wand and Commvault is the charm!
-Perform internal validation and obtain statistics of your CommCell performance.
+* If there’s any kind of automation that you need to perform then CVPySDK is the best suited tool. From simple to complex, all bulk operations on the CommCell can be automated using the CVPySDK to eliminate manual involvement.
+* Customize the usability and experience of the CommCell from all dimensions. Tune things to your standard and do it yourself. If you’re the wizard, then the CVPySDK is the wand and Commvault is the charm!
+* Perform internal validation and obtain statistics of your CommCell performance.
 Just six lines of Python code and you’ll have a backup job running!
 
 The CVPySDK is so self explanatory that even if you are a beginner in Python, you’ll be able to understand the functioning with ease and kick-start your entry into Python programming.
