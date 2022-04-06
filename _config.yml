@@ -1,3 +1,3 @@
 theme: jekyll-theme-cayman
 github:
-  zip_url: https://github.com/Commvault/cvpysdk
+  repository_url: https://github.com/Commvault/cvpysdk
